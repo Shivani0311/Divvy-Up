@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: shivani
+Build-Jdk: 17.0.3
+Implementation-Title: expense-sharing
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example
+Implementation-URL: 
+Created-By: Maven Integration for Eclipse
+
